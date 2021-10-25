@@ -1,0 +1,10 @@
+*{
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+}
+body{
+    background-color: rgb(205, 252, 205);
+}
