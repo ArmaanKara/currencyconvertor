@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ArmaanKara/currencyconvertor.git/static/css/main.c47a3a9d.chunk.css",
-    "main.js": "/ArmaanKara/currencyconvertor.git/static/js/main.79158f40.chunk.js",
-    "main.js.map": "/ArmaanKara/currencyconvertor.git/static/js/main.79158f40.chunk.js.map",
-    "runtime-main.js": "/ArmaanKara/currencyconvertor.git/static/js/runtime-main.f998d020.js",
-    "runtime-main.js.map": "/ArmaanKara/currencyconvertor.git/static/js/runtime-main.f998d020.js.map",
-    "static/js/2.c40499bf.chunk.js": "/ArmaanKara/currencyconvertor.git/static/js/2.c40499bf.chunk.js",
-    "static/js/2.c40499bf.chunk.js.map": "/ArmaanKara/currencyconvertor.git/static/js/2.c40499bf.chunk.js.map",
-    "static/js/3.4dbbd278.chunk.js": "/ArmaanKara/currencyconvertor.git/static/js/3.4dbbd278.chunk.js",
-    "static/js/3.4dbbd278.chunk.js.map": "/ArmaanKara/currencyconvertor.git/static/js/3.4dbbd278.chunk.js.map",
-    "index.html": "/ArmaanKara/currencyconvertor.git/index.html",
-    "static/css/main.c47a3a9d.chunk.css.map": "/ArmaanKara/currencyconvertor.git/static/css/main.c47a3a9d.chunk.css.map",
-    "static/js/2.c40499bf.chunk.js.LICENSE.txt": "/ArmaanKara/currencyconvertor.git/static/js/2.c40499bf.chunk.js.LICENSE.txt"
+    "main.css": "/currencyconvertor/static/css/main.c47a3a9d.chunk.css",
+    "main.js": "/currencyconvertor/static/js/main.79158f40.chunk.js",
+    "main.js.map": "/currencyconvertor/static/js/main.79158f40.chunk.js.map",
+    "runtime-main.js": "/currencyconvertor/static/js/runtime-main.9a905973.js",
+    "runtime-main.js.map": "/currencyconvertor/static/js/runtime-main.9a905973.js.map",
+    "static/js/2.c40499bf.chunk.js": "/currencyconvertor/static/js/2.c40499bf.chunk.js",
+    "static/js/2.c40499bf.chunk.js.map": "/currencyconvertor/static/js/2.c40499bf.chunk.js.map",
+    "static/js/3.4dbbd278.chunk.js": "/currencyconvertor/static/js/3.4dbbd278.chunk.js",
+    "static/js/3.4dbbd278.chunk.js.map": "/currencyconvertor/static/js/3.4dbbd278.chunk.js.map",
+    "index.html": "/currencyconvertor/index.html",
+    "static/css/main.c47a3a9d.chunk.css.map": "/currencyconvertor/static/css/main.c47a3a9d.chunk.css.map",
+    "static/js/2.c40499bf.chunk.js.LICENSE.txt": "/currencyconvertor/static/js/2.c40499bf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f998d020.js",
+    "static/js/runtime-main.9a905973.js",
     "static/js/2.c40499bf.chunk.js",
     "static/css/main.c47a3a9d.chunk.css",
     "static/js/main.79158f40.chunk.js"
